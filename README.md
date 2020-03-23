@@ -19,7 +19,7 @@ washing your hands frequently, avoiding touching your face, and avoiding close c
 * [Coronavirus: A visual guide to the pandemic](https://www.bbc.com/news/world-51235105) - BBC
 * [Novel Coronavirus (COVID-19)](https://www.healthmap.org/covid-19/?mod=article_inline) - healthmap.org
 * [Cases in U.S.](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html) - CDC
-
+* [COVID-19 Lebanon Cases](https://geospatialminds.maps.arcgis.com/apps/opsdashboard/index.html#/389056954e9f43f1acbd3f1055bed602) - GeoSpatialMinds SAL
 ## Datasets
 * [2019 Novel Coronavirus COVID-19 (2019-nCoV)](https://github.com/CSSEGISandData/COVID-19)- GitHub
 
