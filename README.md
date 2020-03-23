@@ -20,6 +20,8 @@ washing your hands frequently, avoiding touching your face, and avoiding close c
 * [Novel Coronavirus (COVID-19)](https://www.healthmap.org/covid-19/?mod=article_inline) - healthmap.org
 * [Cases in U.S.](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html) - CDC
 * [COVID-19 Lebanon Cases](https://geospatialminds.maps.arcgis.com/apps/opsdashboard/index.html#/389056954e9f43f1acbd3f1055bed602) - GeoSpatialMinds SAL
+* [Lebanese Red Corss Situation Report](https://bit.ly/3djE9yu) - Samer Salameh
+
 ## Datasets
 * [2019 Novel Coronavirus COVID-19 (2019-nCoV)](https://github.com/CSSEGISandData/COVID-19)- GitHub
 
