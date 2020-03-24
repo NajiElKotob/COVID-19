@@ -11,6 +11,7 @@ washing your hands frequently, avoiding touching your face, and avoiding close c
 
 ## Dashboards
 ### Global
+* [COVID Visualizer](https://www.covidvisualizer.com/) -  Navid Mamoon and Gabriel Rasskin (Carnegie Mellon University)
 * [Coronavirus COVID-19 Global Cases](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) - Johns Hopkins University
 * [Genomic epidemiology of novel coronavirus](https://nextstrain.org/ncov) - Nextstrain team
 * [COVID-19 Virus](https://coronavirus.thebaselab.com/) - thebaselab
@@ -40,7 +41,7 @@ washing your hands frequently, avoiding touching your face, and avoiding close c
 * [2019 Novel Coronavirus COVID-19 (2019-nCoV)](https://github.com/CSSEGISandData/COVID-19)- GitHub
 * [Repurposing Therapeutics for COVID-19 (ChemRxiv)](https://chemrxiv.org/articles/Repurposing_Therapeutics_for_the_Wuhan_Coronavirus_nCov-2019_Supercomputer-Based_Docking_to_the_Viral_S_Protein_and_Human_ACE2_Interface/11871402/3) - Supercomputer-Based Docking to the SARS-CoV-2 Viral Spike Protein and Viral Spike Protein-Human ACE2 Interface
 * [Access and analyze trusted COVID-19 (Coronavirus) global data](https://www.tableau.com/covid-19-coronavirus-data-resources) - Tableau
-
+* [Worldometers](https://www.worldometers.info/coronavirus/) - Confirmed Cases and Deaths by Country, Territory, or Conveyance
 
 
 
