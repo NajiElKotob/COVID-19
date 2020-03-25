@@ -27,7 +27,7 @@ washing your hands frequently, avoiding touching your face, and avoiding close c
 * [Coronavirus COVID-19 Lebanon Cases](https://maps.moph.gov.lb/portal/apps/opsdashboard/index.html#/d19be998323548278e088076d46d24f8) - MoPH
 * [COVID-19 Lebanon Cases](https://geospatialminds.maps.arcgis.com/apps/opsdashboard/index.html#/389056954e9f43f1acbd3f1055bed602) - GeoSpatialMinds SAL
 * [Lebanese Red Corss Situation Report](https://bit.ly/3djE9yu) - Samer Salameh
-* [CoronaLebanon.com](https://coronalebanon.com/) 
+* [CoronaLebanon.com](https://coronalebanon.com/) - Coronavirus/COVID-19 in Lebanon (Infections and Statistics)
 
 ### Singapore
 * [Dashboard of the COVID-19 Virus Outbreak in Singapore](https://co.vid19.sg/dashboard) - UPCODE ACADEMY
