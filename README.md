@@ -46,4 +46,6 @@ washing your hands frequently, avoiding touching your face, and avoiding close c
 * [COVID-19 Italy - Situation monitoring](https://github.com/pcm-dpc/COVID-19)
 
 
-
+## Videos
+* [TED Prize wish: Help stop the next pandemic](https://www.youtube.com/watch?v=MNhiHf84P9c) - Larry Brilliant (Jan 2007)
+* [The next outbreak? We’re not ready](https://www.youtube.com/watch?v=6Af6b_wyiwI) - Bill Gates (April 2015)
