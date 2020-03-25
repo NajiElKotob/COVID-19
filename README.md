@@ -42,7 +42,7 @@ washing your hands frequently, avoiding touching your face, and avoiding close c
 * [Repurposing Therapeutics for COVID-19 (ChemRxiv)](https://chemrxiv.org/articles/Repurposing_Therapeutics_for_the_Wuhan_Coronavirus_nCov-2019_Supercomputer-Based_Docking_to_the_Viral_S_Protein_and_Human_ACE2_Interface/11871402/3) - Supercomputer-Based Docking to the SARS-CoV-2 Viral Spike Protein and Viral Spike Protein-Human ACE2 Interface
 * [Access and analyze trusted COVID-19 (Coronavirus) global data](https://www.tableau.com/covid-19-coronavirus-data-resources) - Tableau
 * [Worldometers](https://www.worldometers.info/coronavirus/) - Confirmed Cases and Deaths by Country, Territory, or Conveyance
-
+* [COVID-19 Italy - Situation monitoring](https://github.com/pcm-dpc/COVID-19)
 
 
 
