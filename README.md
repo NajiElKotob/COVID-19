@@ -47,5 +47,6 @@ washing your hands frequently, avoiding touching your face, and avoiding close c
 
 
 ## Videos
-* [TED Prize wish: Help stop the next pandemic](https://www.youtube.com/watch?v=MNhiHf84P9c) - Larry Brilliant (Jan 2007)
+* [How we must respond to the COVID-19 pandemic](https://www.youtube.com/watch?v=Xe8fIjxicoo) - Bill Gates (March 2020)
 * [The next outbreak? We’re not ready](https://www.youtube.com/watch?v=6Af6b_wyiwI) - Bill Gates (April 2015)
+* [TED Prize wish: Help stop the next pandemic](https://www.youtube.com/watch?v=MNhiHf84P9c) - Larry Brilliant (Jan 2007)
