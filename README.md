@@ -46,6 +46,8 @@ washing your hands frequently, avoiding touching your face, and avoiding close c
 * [Worldometers](https://www.worldometers.info/coronavirus/) - Confirmed Cases and Deaths by Country, Territory, or Conveyance
 * [COVID-19 Italy - Situation monitoring](https://github.com/pcm-dpc/COVID-19)
 
+## Articles
+* [Visualizing the History of Pandemics](https://www.visualcapitalist.com/history-of-pandemics-deadliest/) - Nicholas LePan
 
 ## Videos
 * [How we must respond to the COVID-19 pandemic](https://www.youtube.com/watch?v=Xe8fIjxicoo) - Bill Gates (March 2020)
