@@ -46,6 +46,9 @@ washing your hands frequently, avoiding touching your face, and avoiding close c
 * [Worldometers](https://www.worldometers.info/coronavirus/) - Confirmed Cases and Deaths by Country, Territory, or Conveyance
 * [COVID-19 Italy - Situation monitoring](https://github.com/pcm-dpc/COVID-19)
 
+## Papers
+* [Bat Coronaviruses in China](https://www.researchgate.net/publication/331492838_Bat_Coronaviruses_in_China) - March 2019
+
 ## Articles
 * [Visualizing the History of Pandemics](https://www.visualcapitalist.com/history-of-pandemics-deadliest/) - Nicholas LePan
 
