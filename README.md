@@ -56,6 +56,9 @@ washing your hands frequently, avoiding touching your face, and avoiding close c
 ## Articles
 * [Visualizing the History of Pandemics](https://www.visualcapitalist.com/history-of-pandemics-deadliest/) - Nicholas LePan
 
+## Resources and References
+* [COVID-19 Resource Hub](https://www.pmi.org/about/coronavirus-single-source-message/resource-hub) - PMI
+
 ## Videos
 * [How we must respond to the COVID-19 pandemic](https://www.youtube.com/watch?v=Xe8fIjxicoo) - Bill Gates (March 2020)
 * [The next outbreak? We’re not ready](https://www.youtube.com/watch?v=6Af6b_wyiwI) - Bill Gates (April 2015)
