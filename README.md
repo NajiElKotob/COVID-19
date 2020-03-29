@@ -58,6 +58,7 @@ washing your hands frequently, avoiding touching your face, and avoiding close c
 
 ## Resources and References
 * [COVID-19 Resource Hub](https://www.pmi.org/about/coronavirus-single-source-message/resource-hub) - PMI
+* [Business Continuity (Free Course)](https://marketplace.pmi.org/Pages/ProductDetail.aspx?GMProduct=00101623100) - PMI
 
 ## Videos
 * [How we must respond to the COVID-19 pandemic](https://www.youtube.com/watch?v=Xe8fIjxicoo) - Bill Gates (March 2020)
