@@ -57,6 +57,7 @@ washing your hands frequently, avoiding touching your face, and avoiding close c
 * [Visualizing the History of Pandemics](https://www.visualcapitalist.com/history-of-pandemics-deadliest/) - Nicholas LePan
 
 ## Resources and References
+* [Coronavirus disease (COVID-19) training](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/training/simulation-exercise) - WHO
 * [COVID-19 Resource Hub](https://www.pmi.org/about/coronavirus-single-source-message/resource-hub) - PMI
 * [Business Continuity (Free Course)](https://marketplace.pmi.org/Pages/ProductDetail.aspx?GMProduct=00101623100) - PMI
 
