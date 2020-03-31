@@ -38,7 +38,9 @@ washing your hands frequently, avoiding touching your face, and avoiding close c
 * [Dashboard of the COVID-19 Virus Outbreak in Singapore](https://co.vid19.sg/dashboard) - UPCODE ACADEMY
 
 
-### U.S.
+### USA
+* [Coronavirus in the United States](https://app.powerbi.com/view?r=eyJrIjoiMmI2ZjExMzItZTcwNy00YmUwLWFlMTAtYTUxYzVjODZmYjA5IiwidCI6ImMxMzZlZWMwLWZlOTItNDVlMC1iZWFlLTQ2OTg0OTczZTIzMiIsImMiOjF9) - USA Facts
+    * [Mapping the COVID-19 outbreak in the states and counties](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/)
 * [Cases in U.S.](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html) - CDC
 
 
