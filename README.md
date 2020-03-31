@@ -16,11 +16,11 @@ washing your hands frequently, avoiding touching your face, and avoiding close c
 * [COVID Visualizer](https://www.covidvisualizer.com/) -  Navid Mamoon and Gabriel Rasskin (Carnegie Mellon University)
 * [Coronavirus COVID-19 Global Cases](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6) - Johns Hopkins University
 * [Genomic epidemiology of novel coronavirus](https://nextstrain.org/ncov) - Nextstrain team
-* [COVID-19 Virus](https://coronavirus.thebaselab.com/) - thebaselab
-* [Coronavirus: A visual guide to the pandemic](https://www.bbc.com/news/world-51235105) - BBC
+* [COVID-19 Virus](https://coronavirus.thebaselab.com/) - thebaselab.com
+* [Coronavirus: A visual guide to the pandemic](https://www.bbc.com/news/world-51235105) - bbc.com
 * [Novel Coronavirus (COVID-19)](https://www.healthmap.org/covid-19/?mod=article_inline) - healthmap.org
 * [COVID-19](https://codgramdata.azurewebsites.net/COVID-19) - Kevork Keheian
-
+* [Understanding the COVID-19 pandemic through data](http://datatopics.worldbank.org/universal-health-coverage/covid19/) - worldbank.org
 
 ### Middle East
 * [Coronavirus COVID-19 Middle East and Global Cases](http://bit.ly/2019-nCoV-ME) - Naji El Kotob
