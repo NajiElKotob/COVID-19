@@ -62,6 +62,7 @@ washing your hands frequently, avoiding touching your face, and avoiding close c
 * [Coronavirus disease (COVID-19) training](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/training/simulation-exercise) - WHO
 * [COVID-19 Resource Hub](https://www.pmi.org/about/coronavirus-single-source-message/resource-hub) - PMI
 * [Business Continuity (Free Course)](https://marketplace.pmi.org/Pages/ProductDetail.aspx?GMProduct=00101623100) - PMI
+* [A temporary hub of information and tools to help teachers during the coronavirus (COVID-19) crisis](https://teachfromhome.google/intl/en/) - Google
 
 ## Videos
 * [How we must respond to the COVID-19 pandemic](https://www.youtube.com/watch?v=Xe8fIjxicoo) - Bill Gates (March 2020)
