@@ -45,6 +45,7 @@ washing your hands frequently, avoiding touching your face, and avoiding close c
 * [Where America Didn’t Stay Home Even as the Virus Spread](https://www.nytimes.com/interactive/2020/04/02/us/coronavirus-social-distancing.html) - The New York Times
 
 ## Datasets
+* [COVID19Py](https://pypi.org/project/COVID19Py/) - A tiny Python package for easy access to up-to-date Coronavirus (COVID-19, SARS-CoV-2) cases data.
 * [2019 Novel Coronavirus COVID-19 (2019-nCoV)](https://github.com/CSSEGISandData/COVID-19) - Johns Hopkins CSSE
     * [Upcoming changes in time series tables](https://github.com/CSSEGISandData/COVID-19/issues/1250)
 * [Repurposing Therapeutics for COVID-19 (ChemRxiv)](https://chemrxiv.org/articles/Repurposing_Therapeutics_for_the_Wuhan_Coronavirus_nCov-2019_Supercomputer-Based_Docking_to_the_Viral_S_Protein_and_Human_ACE2_Interface/11871402/3) - Supercomputer-Based Docking to the SARS-CoV-2 Viral Spike Protein and Viral Spike Protein-Human ACE2 Interface
