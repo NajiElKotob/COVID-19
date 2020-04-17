@@ -54,6 +54,7 @@ washing your hands frequently, avoiding touching your face, and avoiding close c
 * [COVID-19 Italy - Situation monitoring](https://github.com/pcm-dpc/COVID-19)
 
 ## Papers
+* [The Economic Cost of Policy Action against the Outbreak Scenarios of Covid-19 in Lebanon](http://www.institutdesfinances.gov.lb/publication/the-economic-cost-of-policy-action-against-the-outbreak-scenarios-of-covid-19-in-lebanon/) - April 2020
 * [Bat Coronaviruses in China](https://www.researchgate.net/publication/331492838_Bat_Coronaviruses_in_China) - March 2019
 
 ## Articles
