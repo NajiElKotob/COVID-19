@@ -11,6 +11,7 @@ washing your hands frequently, avoiding touching your face, and avoiding close c
 
 ## Dashboards
 ### Global
+* [COVID-19 Worldwide JHU daily data](http://covid-19.seektable.com/report/new?cube=1cec4837b67d47aea18cf8458d55be94) - seektable.com
 * [SAS Coronavirus Report](https://tbub.sas.com/COVID19/)
    * [Using data visualization to track the coronavirus outbreak](https://blogs.sas.com/content/sascom/2020/03/10/using-data-visualization-to-track-the-coronavirus-outbreak/)
 * [COVID Visualizer](https://www.covidvisualizer.com/) -  Navid Mamoon and Gabriel Rasskin (Carnegie Mellon University)
