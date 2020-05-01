@@ -22,6 +22,7 @@ washing your hands frequently, avoiding touching your face, and avoiding close c
 * [Novel Coronavirus (COVID-19)](https://www.healthmap.org/covid-19/?mod=article_inline) - healthmap.org
 * [COVID-19](https://codgramdata.azurewebsites.net/COVID-19) - Kevork Keheian
 * [Understanding the COVID-19 pandemic through data](http://datatopics.worldbank.org/universal-health-coverage/covid19/) - worldbank.org
+* [COVID-19 Analysis](https://techpro-lb.com/mazen/) - Mazen Layoun
 
 ### Middle East
 * [Coronavirus COVID-19 Middle East and Global Cases](http://bit.ly/2019-nCoV-ME) - Naji El Kotob
