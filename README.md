@@ -76,5 +76,6 @@ washing your hands frequently, avoiding touching your face, and avoiding close c
 * [The next outbreak? We’re not ready](https://www.youtube.com/watch?v=6Af6b_wyiwI) - Bill Gates (April 2015)
 * [TED Prize wish: Help stop the next pandemic](https://www.youtube.com/watch?v=MNhiHf84P9c) - Larry Brilliant (Jan 2007)
 
-## Apps and Code
+## Apps and Machine Learning
+* [CT scan database of 1000 sets was created for teaching AI to diagnose COVID-19](https://www.eurekalert.org/pub_releases/2020-05/mrap-csd050820.php) - Moscow Research and Practical Clinical Center for Diagnostics and Telemedicine Technologies (May 2020)
 * [COVID Voice Detector](https://cvdvoice.net/cvd/) - Carnegie Mellon University, voca.ai, telling.ai, hat-ai.com and Incremental Healthcare LLC collaboratively bring you this experimental system designed to detect signatures of Covid-19 infections in your voice.
