@@ -41,6 +41,7 @@ washing your hands frequently, avoiding touching your face, and avoiding close c
 
 
 ### USA
+* [Majority Black Counties See Triple the Covid Death Rate](https://www.bloomberg.com/graphics/2020-coronavirus-outbreak-us-african-american-death-rate/) - Jeff Green and Jackie Gu (May 2020)
 * [Coronavirus in the United States](https://app.powerbi.com/view?r=eyJrIjoiMmI2ZjExMzItZTcwNy00YmUwLWFlMTAtYTUxYzVjODZmYjA5IiwidCI6ImMxMzZlZWMwLWZlOTItNDVlMC1iZWFlLTQ2OTg0OTczZTIzMiIsImMiOjF9) - USA Facts
     * [Mapping the COVID-19 outbreak in the states and counties](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/)
 * [Cases in U.S.](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html) - CDC
