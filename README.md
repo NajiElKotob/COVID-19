@@ -28,6 +28,12 @@ washing your hands frequently, avoiding touching your face, and avoiding close c
 * [Coronavirus COVID-19 Middle East and Global Cases](http://bit.ly/2019-nCoV-ME) - Naji El Kotob
 
 
+-----
+
+
+### Australia
+* [Coronavirus (COVID-19) in Australia](https://www.covid19data.com.au/) - covid19data.com.au
+
 ### Lebanon
 * [Lebanese Ministry of Information](https://corona.ministryinfo.gov.lb/)
 * [Lebanese Red Cross - COVID-19 Awareness Sessions](https://gis.redcross.org.lb/portal/apps/webappviewer/index.html?id=432f768257754d27bef9eb60e21080c7) - Lebanese Red Cross
@@ -39,13 +45,14 @@ washing your hands frequently, avoiding touching your face, and avoiding close c
 ### Singapore
 * [Dashboard of the COVID-19 Virus Outbreak in Singapore](https://co.vid19.sg/dashboard) - UPCODE ACADEMY
 
-
 ### USA
 * [Majority Black Counties See Triple the Covid Death Rate](https://www.bloomberg.com/graphics/2020-coronavirus-outbreak-us-african-american-death-rate/) - Jeff Green and Jackie Gu (May 2020)
 * [Coronavirus in the United States](https://app.powerbi.com/view?r=eyJrIjoiMmI2ZjExMzItZTcwNy00YmUwLWFlMTAtYTUxYzVjODZmYjA5IiwidCI6ImMxMzZlZWMwLWZlOTItNDVlMC1iZWFlLTQ2OTg0OTczZTIzMiIsImMiOjF9) - USA Facts
     * [Mapping the COVID-19 outbreak in the states and counties](https://usafacts.org/visualizations/coronavirus-covid-19-spread-map/)
 * [Cases in U.S.](https://www.cdc.gov/coronavirus/2019-ncov/cases-updates/cases-in-us.html) - CDC
 * [Where America Didn’t Stay Home Even as the Virus Spread](https://www.nytimes.com/interactive/2020/04/02/us/coronavirus-social-distancing.html) - The New York Times
+
+-----
 
 ## Datasets
 * [Public and Open-Source API to track development of COVID19 or Corona Virus live](https://koukia.ca/public-and-open-source-api-to-track-development-of-covid19-or-corona-virus-live-c297526f8b44) - koukia.ca
@@ -57,6 +64,8 @@ washing your hands frequently, avoiding touching your face, and avoiding close c
 * [Access and analyze trusted COVID-19 (Coronavirus) global data](https://www.tableau.com/covid-19-coronavirus-data-resources) - Tableau
 * [Worldometers](https://www.worldometers.info/coronavirus/) - Confirmed Cases and Deaths by Country, Territory, or Conveyance
 * [COVID-19 Italy - Situation monitoring](https://github.com/pcm-dpc/COVID-19)
+
+-----
 
 ## Papers
 * [Spike mutation pipeline reveals the emergence of a more transmissible form of SARS-CoV-2](https://www.biorxiv.org/content/10.1101/2020.04.29.069054v1) -biorxiv.org (May 2020)
@@ -76,6 +85,8 @@ washing your hands frequently, avoiding touching your face, and avoiding close c
 * [How we must respond to the COVID-19 pandemic](https://www.youtube.com/watch?v=Xe8fIjxicoo) - Bill Gates (March 2020)
 * [The next outbreak? We’re not ready](https://www.youtube.com/watch?v=6Af6b_wyiwI) - Bill Gates (April 2015)
 * [TED Prize wish: Help stop the next pandemic](https://www.youtube.com/watch?v=MNhiHf84P9c) - Larry Brilliant (Jan 2007)
+
+-----
 
 ## Apps and Machine Learning
 * [CT scan database of 1000 sets was created for teaching AI to diagnose COVID-19](https://www.eurekalert.org/pub_releases/2020-05/mrap-csd050820.php) - Moscow Research and Practical Clinical Center for Diagnostics and Telemedicine Technologies (May 2020)
