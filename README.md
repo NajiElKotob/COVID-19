@@ -76,6 +76,7 @@ washing your hands frequently, avoiding touching your face, and avoiding close c
 * [Visualizing the History of Pandemics](https://www.visualcapitalist.com/history-of-pandemics-deadliest/) - Nicholas LePan
 
 ## Resources and References
+* [Covid 19 Project](http://www.institutdesfinances.gov.lb/project/covid-19/) - To keep you well informed and to facilitate your research on the financial and socioeconomic impact of the new coronavirus, the Library of Finance provides you with a selection of the most relevant information sites, research papers, calls for proposals, e-books, blogs, analyses by leading economists, webinars, policy responses, and COVID-19 database, map and survey sites (institutdesfinances.gov.lb)
 * [Coronavirus disease (COVID-19) training](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/training/simulation-exercise) - WHO
 * [COVID-19 Resource Hub](https://www.pmi.org/about/coronavirus-single-source-message/resource-hub) - PMI
 * [Business Continuity (Free Course)](https://marketplace.pmi.org/Pages/ProductDetail.aspx?GMProduct=00101623100) - PMI
