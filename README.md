@@ -74,6 +74,7 @@ washing your hands frequently, avoiding touching your face, and avoiding close c
 * [Bat Coronaviruses in China](https://www.researchgate.net/publication/331492838_Bat_Coronaviruses_in_China) - March 2019
 
 ## Articles
+* [How Much Worse the Coronavirus Could Get, in Charts](https://www.nytimes.com/interactive/2020/03/13/opinion/coronavirus-trump-response.html) (The New York Times, March 2020)
 * [Visualizing the History of Pandemics](https://www.visualcapitalist.com/history-of-pandemics-deadliest/) - Nicholas LePan
 
 ## Resources and References
