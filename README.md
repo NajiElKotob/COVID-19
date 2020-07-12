@@ -11,6 +11,7 @@ washing your hands frequently, avoiding touching your face, and avoiding close c
 
 ## Dashboards
 ### Global
+* [Understanding our progress against COVID-19](https://www.microsoft.com/en-us/ai/ai-for-health-covid-data?SilentAuth=1&wa=wsignin1.0) - To help provide full transparency into COVID-19 trends around the world, we have created these interactive visualizations based on publicly available data. Explore the maps below including COVID-19 Cases, Progress to Zero, Rt, Testing, and Risk Levels.
 * [World COVID-19 Stats](https://ncov2019.live/) - Avi Schiffmann
 * [COVID-19 Worldwide JHU daily data](http://covid-19.seektable.com/report/new?cube=1cec4837b67d47aea18cf8458d55be94) - seektable.com
 * [SAS Coronavirus Report](https://tbub.sas.com/COVID19/)
