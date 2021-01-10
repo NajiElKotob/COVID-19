@@ -57,6 +57,7 @@ washing your hands frequently, avoiding touching your face, and avoiding close c
 -----
 
 ## Datasets
+* [Our World in Data](https://ourworldindata.org/coronavirus#coronavirus-country-profiles) - Coronavirus Pandemic (COVID-19)
 * [Public and Open-Source API to track development of COVID19 or Corona Virus live](https://koukia.ca/public-and-open-source-api-to-track-development-of-covid19-or-corona-virus-live-c297526f8b44) - koukia.ca
 * [Coronavirus Source Data](https://ourworldindata.org/coronavirus-source-data) - Our World in Data
 * [COVID19Py](https://pypi.org/project/COVID19Py/) - A tiny Python package for easy access to up-to-date Coronavirus (COVID-19, SARS-CoV-2) cases data.
